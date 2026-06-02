@@ -1,93 +1,107 @@
-<!-- ⚠️ Mahmoud: ابحث عن كلمة REPLACE_ME في الملف ده وبدّلها بلينكاتك الحقيقية (LinkedIn / Portfolio / Email) -->
+<!-- ⚠️ Mahmoud: ابحث عن REPLACE_ME وبدّلها بلينكاتك (LinkedIn / Portfolio / Email) -->
 
+<!-- ===================== HERO BANNER (animated) ===================== -->
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:9D7CD8,100:BB9AF7&height=230&section=header&text=Mahmoud%20Amr&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Creative%20Web%20Designer%20%26%20Developer&descAlignY=56&descSize=20" alt="Mahmoud Amr"/>
 
 <a href="https://github.com/Z4YT0N">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mahmoud+Amr+%F0%9F%91%8B;Creative+Web+Designer+%26+Developer;I+craft+modern+Web3+experiences;Award-winning+aesthetics+%C2%B7+motion+%C2%B7+3D" alt="Mahmoud Amr" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=720&lines=I+craft+modern+Web3+experiences;Award-winning+aesthetics+%C2%B7+motion+%C2%B7+3D;Turning+ideas+into+immersive+websites" alt="typing" />
 </a>
-
-<p>
-  <b>Creative Web Designer &amp; Developer</b> crafting <b>modern, immersive Web3 experiences</b>.<br/>
-  Award-winning aesthetics, buttery-smooth motion, and interactive 3D — built to convert and to <i>wow</i>.
-</p>
-
-<a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://REPLACE_ME"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Z4YT0N&style=for-the-badge&color=7AA2F7" alt="Profile views"/>
-
-</div>
-
----
-
-## 🎨 What I Do
-
-- 🌐 I design & build **modern web experiences** — landing pages, agency sites, and product launches that feel premium.
-- ✨ Obsessed with **motion & micro-interactions** — scroll-driven storytelling, smooth transitions, and detail that delights.
-- 🧊 **Interactive 3D / WebGL** experiences — bringing depth, shaders, and immersion to the browser.
-- 🏆 Inspired by **Awwwards / FWA** standards — I curate and study 250+ award-winning sites to keep my craft sharp.
-- ⚡ Performance-minded — beauty that still loads fast and scores high.
-- 🌍 Bilingual design (English / العربية) with proper Arabic typography.
-
----
-
-## 🧰 Creative Stack
-
-**Design & Motion**
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Build**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
-
-## 🚀 Featured Work
-
-| Project | Description | Tech |
-|---|---|---|
-| **[awwwards-collection](https://github.com/Z4YT0N/awwwards-collection)** 🏆 | 257 curated creative web experiences — Awwwards SOTD clones, WebGL, 3D, SaaS & agency sites. My reference library for award-level design. | `WebGL` `3D` `Motion` |
-| **[awwwards-skill](https://github.com/Z4YT0N/awwwards-skill)** ✨ | A design-system toolkit for building award-winning websites — motion guidelines, Arabic typography & anti-generic-AI rules. | `Design System` `AI` |
-| **[dev-server-manager](https://github.com/Z4YT0N/dev-server-manager)** ⭐ | One window for every dev server on your machine. Tiny (1.7 MB, ~26 MB RAM) — a tool I built for my own workflow. | `JavaScript` `Tooling` |
-| **[Desalab](https://github.com/Z4YT0N/Desalab)** | Interactive simulator with real-time data visualization & a modern, responsive UI. | `Web App` `DataViz` |
-
-> 🔗 More award-level experiences live on my **[Portfolio](https://REPLACE_ME)** — come take a look.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Z4YT0N&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4YT0N&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Z4YT0N&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+<a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://REPLACE_ME"><img src="https://img.shields.io/badge/Portfolio-9D7CD8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Z4YT0N&style=for-the-badge&color=BB9AF7&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
----
+<!-- ===================== ABOUT ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Z4YT0N/Z4YT0N/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+```ts
+const mahmoud = {
+  role:    "Creative Web Designer & Developer",
+  focus:   ["immersive UX", "motion design", "3D / WebGL"],
+  vibe:    "Awwwards / FWA standard",
+  stack:   ["Next.js", "React", "Three.js", "GSAP"],
+  langs:   ["English", "العربية"],
+  motto:   "Beauty that loads fast and converts.",
+};
+```
+
+- 🌐 I design & build **modern, immersive web experiences** that feel premium.
+- ✨ Obsessed with **motion & micro-interactions** and scroll-driven storytelling.
+- 🧊 I bring **interactive 3D / WebGL** depth into the browser.
+- 🏆 I study **250+ award-winning sites** to keep my craft razor-sharp.
+
+<br clear="right"/>
+
+<!-- ===================== TECH STACK ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,tailwind,figma,nodejs,html,css,git,vercel&theme=dark&perline=12" alt="skills"/>
+
+</div>
+
+<!-- ===================== FEATURED WORK ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Featured Work
+
+| Project | Description | Tech |
+|---|---|---|
+| **[awwwards-collection](https://github.com/Z4YT0N/awwwards-collection)** 🏆 | 257 curated creative web experiences — WebGL, 3D, SaaS & agency sites. | `WebGL` `3D` `Motion` |
+| **[awwwards-skill](https://github.com/Z4YT0N/awwwards-skill)** ✨ | A design-system toolkit for building award-winning websites. | `Design System` `AI` |
+| **[dev-server-manager](https://github.com/Z4YT0N/dev-server-manager)** ⭐ | One window for every dev server — tiny (1.7 MB, ~26 MB RAM). | `JavaScript` `Tooling` |
+| **[Desalab](https://github.com/Z4YT0N/Desalab)** | Interactive simulator with real-time data viz & a modern UI. | `Web App` `DataViz` |
+
+> 🔗 More award-level experiences live on my **[Portfolio](https://REPLACE_ME)** — come take a look.
+
+<!-- ===================== STATS ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/ZdXp2ALztouHTpQNkN/giphy.gif" width="30"> &nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Z4YT0N&show_icons=true&count_private=true&hide_border=true&title_color=BB9AF7&icon_color=7AA2F7&text_color=c0caf5&bg_color=1a1b27" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4YT0N&layout=compact&hide_border=true&title_color=BB9AF7&text_color=c0caf5&bg_color=1a1b27" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Z4YT0N&hide_border=true&background=1a1b27&ring=BB9AF7&fire=7AA2F7&currStreakLabel=BB9AF7" alt="streak"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Z4YT0N&bg_color=1a1b27&color=c0caf5&line=BB9AF7&point=7AA2F7&area=true&area_color=9D7CD8&hide_border=true" alt="activity graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Z4YT0N&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
 
 <div align="center">
 
 ### 💬 Got a project that deserves to stand out?
 
-<a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/Let's_Talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/Let's_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Start_a_Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<sub>Designing the web, one immersive experience at a time. ✦</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,50:9D7CD8,100:7AA2F7&height=120&section=footer&text=Designing%20the%20web,%20one%20experience%20at%20a%20time&fontSize=16&fontColor=ffffff&fontAlignY=75" alt="footer"/>
 
 </div>
