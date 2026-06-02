@@ -54,20 +54,6 @@ const mahmoud = {
 
 </div>
 
-<!-- ===================== FEATURED WORK ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
-
-## 🚀 &nbsp; Featured Work
-
-| Project | Description | Tech |
-|---|---|---|
-| **[awwwards-collection](https://github.com/Z4YT0N/awwwards-collection)** 🏆 | 257 curated creative web experiences — WebGL, 3D, SaaS & agency sites. | `WebGL` `3D` `Motion` |
-| **[awwwards-skill](https://github.com/Z4YT0N/awwwards-skill)** ✨ | A design-system toolkit for building award-winning websites. | `Design System` `AI` |
-| **[dev-server-manager](https://github.com/Z4YT0N/dev-server-manager)** ⭐ | One window for every dev server — tiny (1.7 MB, ~26 MB RAM). | `JavaScript` `Tooling` |
-| **[Desalab](https://github.com/Z4YT0N/Desalab)** | Interactive simulator with real-time data viz & a modern UI. | `Web App` `DataViz` |
-
-> 🔗 More award-level experiences live on my **[Portfolio](https://REPLACE_ME)** — come take a look.
-
 <!-- ===================== STATS ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
 
