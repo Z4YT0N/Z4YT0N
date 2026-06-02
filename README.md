@@ -21,7 +21,7 @@
 <!-- ===================== ABOUT ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
+## 👨‍💻 &nbsp; About Me
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/Z4YT0N/Z4YT0N/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
@@ -46,7 +46,7 @@ const mahmoud = {
 <!-- ===================== TECH STACK ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Tech Stack
+## 🧰 &nbsp; Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@ const mahmoud = {
 <!-- ===================== FEATURED WORK ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Featured Work
+## 🚀 &nbsp; Featured Work
 
 | Project | Description | Tech |
 |---|---|---|
@@ -71,7 +71,7 @@ const mahmoud = {
 <!-- ===================== STATS ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2&width=100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/ZdXp2ALztouHTpQNkN/giphy.gif" width="30"> &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
