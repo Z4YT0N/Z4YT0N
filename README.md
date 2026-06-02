@@ -75,8 +75,8 @@ const mahmoud = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Z4YT0N&show_icons=true&count_private=true&hide_border=true&title_color=BB9AF7&icon_color=7AA2F7&text_color=c0caf5&bg_color=1a1b27" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z4YT0N&layout=compact&hide_border=true&title_color=BB9AF7&text_color=c0caf5&bg_color=1a1b27" alt="top langs"/>
+<img height="165" src="https://z4yt0n-stats.vercel.app/api?username=Z4YT0N&show_icons=true&count_private=true&hide_border=true&title_color=BB9AF7&icon_color=7AA2F7&text_color=c0caf5&bg_color=1a1b27" alt="stats"/>
+<img height="165" src="https://z4yt0n-stats.vercel.app/api/top-langs/?username=Z4YT0N&layout=compact&hide_border=true&title_color=BB9AF7&text_color=c0caf5&bg_color=1a1b27" alt="top langs"/>
 
 <br/>
 
