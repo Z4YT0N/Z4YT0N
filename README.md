@@ -3,7 +3,7 @@
 <!-- ===================== HERO BANNER (animated) ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:9D7CD8,100:BB9AF7&height=230&section=header&text=Mahmoud%20Amr&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Creative%20Web%20Designer%20%26%20Developer&descAlignY=56&descSize=20" alt="Mahmoud Amr"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:9D7CD8,100:BB9AF7&height=220&section=header&text=Mahmoud%20Amr&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Web%20Designer%20%26%20Developer&descAlignY=60&descSize=20&v=2" alt="Mahmoud Amr"/>
 
 <a href="https://github.com/Z4YT0N">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=720&lines=I+craft+modern+Web3+experiences;Award-winning+aesthetics+%C2%B7+motion+%C2%B7+3D;Turning+ideas+into+immersive+websites" alt="typing" />
